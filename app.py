@@ -49,7 +49,7 @@ with st.container():
             If this sounds interesting to you, consider subscribing and turning on notifications, so you don’t miss any content.
             """
         )
-        st.write("[YouTube Channel >](https://youtube.com/watch?v=)")
+        st.write("[YouTube Channel >](https://youtube.com/)")
     
     with right_column:
         st_lottie(lottie_coding, height=500, key="coding")
@@ -71,7 +71,7 @@ with st.container():
             In this tutorial, I'll show you exactly how to do it
             """
         )
-        st.markdown("[Watch Video...](https://youtu.be/TXSOitGoINE)")
+        st.markdown("[Watch Video...](https://youtube/)")
 
 # ----  Form ---- 
 with st.container():
@@ -87,7 +87,7 @@ with st.container():
             In this video, I'm going to show you how to implement a contact form in your Streamlit app using the free service ‘Form Submit’.
             """
         )
-        st.markdown("[Watch Video...](https://youtu.be/FOULV9Xij_8)")
+        st.markdown("[Watch Video...](https://youtube/)")
 
 # Experience
 st.header("Experience")
